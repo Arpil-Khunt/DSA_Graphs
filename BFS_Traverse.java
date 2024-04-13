@@ -2,15 +2,7 @@ import java.util.*;
 
 public class BFS_Traverse {
 
-    /*
-     * 1-------3
-     * / |\
-     * 0 | \
-     * \ | 5----6
-     * \ |/
-     * 2-------4
-     * 
-     */
+    1-------3/|\0|\\|5----6\|/2-------4
     static class Edge {
         int src;
         int dest;
